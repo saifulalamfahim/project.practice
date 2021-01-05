@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h2{
+    font-weight: 400;
+}
+h1{
+    color: blueviolet;
+}
+a{
+    background-color: blueviolet;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 7%;
+    color: white;
+}
+.first-change{
+   width: 34%;
+   float: left;
+   margin: 10% 1% 25% 10%;
+}
+.second-change img{
+    width: 45%;
+    float: left;
+}
+.third-change{
+
+}
